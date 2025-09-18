@@ -1,0 +1,21 @@
+# Logs
+*.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# kubectl cache/configs locales
+.kube/
+*.yaml~ 
+
+# Linux / bash
+*~
